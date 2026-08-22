@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guta-chapes.ch/sitemap.xml
