@@ -181,7 +181,7 @@ h2.section-title {
   color: var(--ink);
 }
 
-.section-title--light {
+h2.section-title.section-title--light {
   color: var(--yellow);
 }
 
